@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 70045555f6ae75048975d85baab4ae2c
+timeCreated: 1480536888
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player-shotgun-idle_0
+    21300002: player-shotgun-idle_1
+    21300004: player-shotgun-idle_2
+    21300006: player-shotgun-idle_3
+    21300008: player-shotgun-idle_4
+    21300010: player-shotgun-idle_5
+    21300012: player-shotgun-idle_6
+    21300014: player-shotgun-idle_7
+    21300016: player-shotgun-idle_8
+    21300018: player-shotgun-idle_9
+    21300020: player-shotgun-idle_10
+    21300022: player-shotgun-idle_11
+    21300024: player-shotgun-idle_12
+    21300026: player-shotgun-idle_13
+    21300028: player-shotgun-idle_14
+    21300030: player-shotgun-idle_15
+    21300032: player-shotgun-idle_16
+    21300034: player-shotgun-idle_17
+    21300036: player-shotgun-idle_18
+    21300038: player-shotgun-idle_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-shotgun-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_4
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 621
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_8
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_9
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 414
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_13
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_14
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 207
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 0
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_18
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player-shotgun-idle_19
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 0
+        width: 313
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
